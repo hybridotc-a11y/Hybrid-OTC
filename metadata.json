@@ -1,0 +1,9 @@
+{
+  "name": " Hybrid Quantum: Binary Neural OTC Predictor v4.5",
+  "description": "Professional-grade market analyzer with TensorFlow-driven ML and TradingView Visual Sync.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
